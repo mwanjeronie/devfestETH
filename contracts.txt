@@ -1,3 +1,0 @@
-    • Connect to both contract addresses:
-        ◦ Base: 0xc6F0AF0ecF3Eca02CdFBF32e9BD18B0b5447D7a4
-        ◦ Polygon: 0xc8f0173E8935aE72869B1F09700655294a09D6CC
